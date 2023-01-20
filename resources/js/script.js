@@ -1,0 +1,9 @@
+$('.slider_items').slick({
+    slidesToShow:5,
+    slidesToScroll:1,
+    dots:true,
+    arrows:false,
+    autoplay:true,
+    autoplaySpeed:1500,
+    infinite:true
+});
